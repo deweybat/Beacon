@@ -1,0 +1,2422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Beacon.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:"
+      name = "">
+      <Group
+         location = "group:Beacon"
+         name = "Beacon">
+         <FileRef
+            location = "group:AppDelegate.swift">
+         </FileRef>
+         <Group
+            location = "group:Assets.xcassets"
+            name = "Assets.xcassets">
+            <Group
+               location = "group:AppIcon.appiconset"
+               name = "AppIcon.appiconset">
+               <FileRef
+                  location = "group:Contents.json">
+               </FileRef>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Base.lproj"
+            name = "Base.lproj">
+            <FileRef
+               location = "group:LaunchScreen.storyboard">
+            </FileRef>
+            <FileRef
+               location = "group:Main.storyboard">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+         <FileRef
+            location = "group:ViewController.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Beacon copy-Info.plist">
+      </FileRef>
+      <FileRef
+         location = "group:Beacon.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:Beacon.xcworkspace">
+      </FileRef>
+      <Group
+         location = "group:BeaconTests"
+         name = "BeaconTests">
+         <FileRef
+            location = "group:BeaconTests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:BeaconUITests"
+         name = "BeaconUITests">
+         <FileRef
+            location = "group:BeaconUITests.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Info.plist">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Podfile">
+      </FileRef>
+      <FileRef
+         location = "group:Podfile.lock">
+      </FileRef>
+      <Group
+         location = "group:Pods"
+         name = "Pods">
+         <Group
+            location = "group:GoogleMaps"
+            name = "GoogleMaps">
+            <Group
+               location = "group:Base"
+               name = "Base">
+               <Group
+                  location = "group:Frameworks"
+                  name = "Frameworks">
+                  <Group
+                     location = "group:GoogleMapsBase.framework"
+                     name = "GoogleMapsBase.framework">
+                     <FileRef
+                        location = "group:GoogleMapsBase">
+                     </FileRef>
+                     <Group
+                        location = "group:Headers"
+                        name = "Headers">
+                        <FileRef
+                           location = "group:GMSCompatabilityMacros.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSCoordinateBounds.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSDeprecationMacros.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GoogleMapsBase.h">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Modules"
+                        name = "Modules">
+                        <FileRef
+                           location = "group:module.modulemap">
+                        </FileRef>
+                     </Group>
+                  </Group>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:CHANGELOG">
+            </FileRef>
+            <Group
+               location = "group:Example"
+               name = "Example">
+               <Group
+                  location = "group:GoogleMapsDemos"
+                  name = "GoogleMapsDemos">
+                  <FileRef
+                     location = "group:DemoAppDelegate.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DemoAppDelegate.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Info.plist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:main.m">
+                  </FileRef>
+                  <Group
+                     location = "group:MapsDemoAssets.xcassets"
+                     name = "MapsDemoAssets.xcassets">
+                     <Group
+                        location = "group:AppIcon.appiconset"
+                        name = "AppIcon.appiconset">
+                        <FileRef
+                           location = "group:Contents.json">
+                        </FileRef>
+                        <FileRef
+                           location = "group:Maps-SDK-Demo-App_120.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:Maps-SDK-Demo-App_152.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:Maps-SDK-Demo-App_167.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:Maps-SDK-Demo-App_180.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:Maps-SDK-Demo-App_76.png">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:Contents.json">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:MasterViewController.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:MasterViewController.m">
+                  </FileRef>
+                  <Group
+                     location = "group:Resources"
+                     name = "Resources">
+                     <FileRef
+                        location = "group:aeroplane.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:aeroplane@2x.png">
+                     </FileRef>
+                     <Group
+                        location = "group:ar.lproj"
+                        name = "ar.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:argentina-large.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:argentina.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:arrow.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:arrow@2x.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:australia-large.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:australia-large@2x.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:australia.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:boat.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:boat@2x.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:botswana-large.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:botswana.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:bulgaria-large.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:bulgaria.png">
+                     </FileRef>
+                     <Group
+                        location = "group:ca.lproj"
+                        name = "ca.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:cs.lproj"
+                        name = "cs.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:da.lproj"
+                        name = "da.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:de.lproj"
+                        name = "de.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:el.lproj"
+                        name = "el.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:en.lproj"
+                        name = "en.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:en_GB.lproj"
+                        name = "en_GB.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:es.lproj"
+                        name = "es.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:fi.lproj"
+                        name = "fi.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:fr.lproj"
+                        name = "fr.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:glow-marker.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:glow-marker@2x.png">
+                     </FileRef>
+                     <Group
+                        location = "group:he.lproj"
+                        name = "he.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:hr.lproj"
+                        name = "hr.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:hu.lproj"
+                        name = "hu.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:id.lproj"
+                        name = "id.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:it.lproj"
+                        name = "it.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ja.lproj"
+                        name = "ja.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ko.lproj"
+                        name = "ko.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:LaunchScreen.storyboard">
+                     </FileRef>
+                     <FileRef
+                        location = "group:mapstyle-night.json">
+                     </FileRef>
+                     <FileRef
+                        location = "group:mapstyle-retro.json">
+                     </FileRef>
+                     <FileRef
+                        location = "group:mapstyle-silver.json">
+                     </FileRef>
+                     <Group
+                        location = "group:ms.lproj"
+                        name = "ms.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:museum-exhibits.json">
+                     </FileRef>
+                     <Group
+                        location = "group:Museum-Icons"
+                        name = "Museum-Icons">
+                        <FileRef
+                           location = "group:h1.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:h1@2x.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:spitfire.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:spitfire@2x.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:voyager.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:voyager@2x.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:x29.png">
+                        </FileRef>
+                        <FileRef
+                           location = "group:x29@2x.png">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:nb.lproj"
+                        name = "nb.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:newark_nj_1922.jpg">
+                     </FileRef>
+                     <Group
+                        location = "group:nl.lproj"
+                        name = "nl.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:pl.lproj"
+                        name = "pl.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:popup_santa.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:popup_santa@2x.png">
+                     </FileRef>
+                     <Group
+                        location = "group:pt.lproj"
+                        name = "pt.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:pt_PT.lproj"
+                        name = "pt_PT.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ro.lproj"
+                        name = "ro.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ru.lproj"
+                        name = "ru.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:sk.lproj"
+                        name = "sk.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:step1.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step1@2x.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step2.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step2@2x.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step3.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step3@2x.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step4.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step4@2x.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step5.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step5@2x.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step6.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step6@2x.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step7.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step7@2x.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step8.png">
+                     </FileRef>
+                     <FileRef
+                        location = "group:step8@2x.png">
+                     </FileRef>
+                     <Group
+                        location = "group:sv.lproj"
+                        name = "sv.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:th.lproj"
+                        name = "th.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:tr.lproj"
+                        name = "tr.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:track.json">
+                     </FileRef>
+                     <Group
+                        location = "group:uk.lproj"
+                        name = "uk.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:vi.lproj"
+                        name = "vi.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:zh_CN.lproj"
+                        name = "zh_CN.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:zh_TW.lproj"
+                        name = "zh_TW.lproj">
+                        <FileRef
+                           location = "group:InfoPlist.strings">
+                        </FileRef>
+                     </Group>
+                  </Group>
+                  <Group
+                     location = "group:Samples"
+                     name = "Samples">
+                     <FileRef
+                        location = "group:AnimatedCurrentLocationViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:AnimatedCurrentLocationViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:AnimatedUIViewMarkerViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:AnimatedUIViewMarkerViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:BasicMapViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:BasicMapViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:CameraViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:CameraViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:CustomIndoorViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:CustomIndoorViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:CustomMarkersViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:CustomMarkersViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:DoubleMapViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:DoubleMapViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:FitBoundsViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:FitBoundsViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:FixedPanoramaViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:FixedPanoramaViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:FrameRateViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:FrameRateViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GeocoderViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GeocoderViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GestureControlViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GestureControlViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GradientPolylinesViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GradientPolylinesViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GroundOverlayViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GroundOverlayViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:IndoorMuseumNavigationViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:IndoorMuseumNavigationViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:IndoorViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:IndoorViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MapLayerViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MapLayerViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MapTypesViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MapTypesViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MapZoomViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MapZoomViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MarkerEventsViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MarkerEventsViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MarkerInfoWindowViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MarkerInfoWindowViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MarkerLayerViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MarkerLayerViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MarkersViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MarkersViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MyLocationViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MyLocationViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PaddingBehaviorViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PaddingBehaviorViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PanoramaViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PanoramaViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PolygonsViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PolygonsViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PolylinesViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PolylinesViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Samples.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:Samples.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:SnapshotReadyViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:SnapshotReadyViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:StructuredGeocoderViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:StructuredGeocoderViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:StyledMapViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:StyledMapViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:TileLayerViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:TileLayerViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:TrafficMapViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:TrafficMapViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:VisibleRegionViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:VisibleRegionViewController.m">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:SDKDemoAPIKey.h">
+                  </FileRef>
+               </Group>
+               <FileRef
+                  location = "group:GoogleMapsDemos.xcodeproj">
+               </FileRef>
+               <FileRef
+                  location = "group:Podfile">
+               </FileRef>
+               <FileRef
+                  location = "group:README.GoogleMapsDemos">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Maps"
+               name = "Maps">
+               <Group
+                  location = "group:Frameworks"
+                  name = "Frameworks">
+                  <Group
+                     location = "group:GoogleMaps.framework"
+                     name = "GoogleMaps.framework">
+                     <FileRef
+                        location = "group:GoogleMaps">
+                     </FileRef>
+                     <Group
+                        location = "group:Headers"
+                        name = "Headers">
+                        <FileRef
+                           location = "group:GMSAddress.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSCALayer.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSCameraPosition.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSCameraUpdate.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSCircle.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSCoordinateBounds+GoogleMaps.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSGeocoder.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSGeometryUtils.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSGroundOverlay.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSIndoorBuilding.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSIndoorDisplay.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSIndoorLevel.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSMapLayer.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSMapStyle.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSMapView+Animation.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSMapView.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSMarker.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSMarkerLayer.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSMutablePath.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSOrientation.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSOverlay.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSPanorama.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSPanoramaCamera.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSPanoramaCameraUpdate.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSPanoramaLayer.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSPanoramaLink.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSPanoramaService.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSPanoramaView.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSPath.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSPolygon.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSPolyline.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSProjection.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSServices.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSSyncTileLayer.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSTileLayer.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSUISettings.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GMSURLTileLayer.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:GoogleMaps.h">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Modules"
+                        name = "Modules">
+                        <FileRef
+                           location = "group:module.modulemap">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Resources"
+                        name = "Resources">
+                        <FileRef
+                           location = "group:GoogleMaps.bundle">
+                        </FileRef>
+                     </Group>
+                  </Group>
+                  <Group
+                     location = "group:GoogleMapsCore.framework"
+                     name = "GoogleMapsCore.framework">
+                     <FileRef
+                        location = "group:GoogleMapsCore">
+                     </FileRef>
+                     <Group
+                        location = "group:Modules"
+                        name = "Modules">
+                        <FileRef
+                           location = "group:module.modulemap">
+                        </FileRef>
+                     </Group>
+                  </Group>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:README.md">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:GooglePlacePicker"
+            name = "GooglePlacePicker">
+            <FileRef
+               location = "group:CHANGELOG">
+            </FileRef>
+            <Group
+               location = "group:Example"
+               name = "Example">
+               <Group
+                  location = "group:GooglePlacePickerDemos"
+                  name = "GooglePlacePickerDemos">
+                  <FileRef
+                     location = "group:AppDelegate.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Info.plist">
+                  </FileRef>
+                  <Group
+                     location = "group:Resources"
+                     name = "Resources">
+                     <Group
+                        location = "group:ar.lproj"
+                        name = "ar.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Base.lproj"
+                        name = "Base.lproj">
+                        <FileRef
+                           location = "group:LaunchScreen.storyboard">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ca.lproj"
+                        name = "ca.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:cs.lproj"
+                        name = "cs.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:da.lproj"
+                        name = "da.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:de.lproj"
+                        name = "de.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:el.lproj"
+                        name = "el.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:en.lproj"
+                        name = "en.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:en_AU.lproj"
+                        name = "en_AU.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:en_GB.lproj"
+                        name = "en_GB.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:en_IN.lproj"
+                        name = "en_IN.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:es.lproj"
+                        name = "es.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:es_419.lproj"
+                        name = "es_419.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:es_MX.lproj"
+                        name = "es_MX.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:fi.lproj"
+                        name = "fi.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:fr.lproj"
+                        name = "fr.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:fr_CA.lproj"
+                        name = "fr_CA.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:he.lproj"
+                        name = "he.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:hi.lproj"
+                        name = "hi.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:hr.lproj"
+                        name = "hr.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:hu.lproj"
+                        name = "hu.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:id.lproj"
+                        name = "id.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:it.lproj"
+                        name = "it.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ja.lproj"
+                        name = "ja.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ko.lproj"
+                        name = "ko.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ms.lproj"
+                        name = "ms.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:nb.lproj"
+                        name = "nb.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:nl.lproj"
+                        name = "nl.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:pl.lproj"
+                        name = "pl.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:PlacePickerDemoAssets.xcassets"
+                        name = "PlacePickerDemoAssets.xcassets">
+                        <Group
+                           location = "group:address.imageset"
+                           name = "address.imageset">
+                           <FileRef
+                              location = "group:address.pdf">
+                           </FileRef>
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                        </Group>
+                        <Group
+                           location = "group:AppIcon.appiconset"
+                           name = "AppIcon.appiconset">
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                           <FileRef
+                              location = "group:PlacePicker-Demo-App_120.png">
+                           </FileRef>
+                           <FileRef
+                              location = "group:PlacePicker-Demo-App_152.png">
+                           </FileRef>
+                           <FileRef
+                              location = "group:PlacePicker-Demo-App_167.png">
+                           </FileRef>
+                           <FileRef
+                              location = "group:PlacePicker-Demo-App_180.png">
+                           </FileRef>
+                           <FileRef
+                              location = "group:PlacePicker-Demo-App_76.png">
+                           </FileRef>
+                        </Group>
+                        <Group
+                           location = "group:attribution.imageset"
+                           name = "attribution.imageset">
+                           <FileRef
+                              location = "group:attribution.pdf">
+                           </FileRef>
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                        </Group>
+                        <Group
+                           location = "group:back.imageset"
+                           name = "back.imageset">
+                           <FileRef
+                              location = "group:back.pdf">
+                           </FileRef>
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                        </Group>
+                        <FileRef
+                           location = "group:Contents.json">
+                        </FileRef>
+                        <Group
+                           location = "group:coordinate.imageset"
+                           name = "coordinate.imageset">
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                           <FileRef
+                              location = "group:coordinate.pdf">
+                           </FileRef>
+                        </Group>
+                        <Group
+                           location = "group:logo.imageset"
+                           name = "logo.imageset">
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                           <FileRef
+                              location = "group:logo.pdf">
+                           </FileRef>
+                        </Group>
+                        <Group
+                           location = "group:open_now.imageset"
+                           name = "open_now.imageset">
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                           <FileRef
+                              location = "group:open_now.pdf">
+                           </FileRef>
+                        </Group>
+                        <Group
+                           location = "group:phone_number.imageset"
+                           name = "phone_number.imageset">
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                           <FileRef
+                              location = "group:phone_number.pdf">
+                           </FileRef>
+                        </Group>
+                        <Group
+                           location = "group:pins.imageset"
+                           name = "pins.imageset">
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                           <FileRef
+                              location = "group:pins.pdf">
+                           </FileRef>
+                        </Group>
+                        <Group
+                           location = "group:place_id.imageset"
+                           name = "place_id.imageset">
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                           <FileRef
+                              location = "group:place_id.pdf">
+                           </FileRef>
+                        </Group>
+                        <Group
+                           location = "group:price_level.imageset"
+                           name = "price_level.imageset">
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                           <FileRef
+                              location = "group:price_level.pdf">
+                           </FileRef>
+                        </Group>
+                        <Group
+                           location = "group:rating.imageset"
+                           name = "rating.imageset">
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                           <FileRef
+                              location = "group:rating.pdf">
+                           </FileRef>
+                        </Group>
+                        <Group
+                           location = "group:types.imageset"
+                           name = "types.imageset">
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                           <FileRef
+                              location = "group:types.pdf">
+                           </FileRef>
+                        </Group>
+                        <Group
+                           location = "group:website.imageset"
+                           name = "website.imageset">
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                           <FileRef
+                              location = "group:website.pdf">
+                           </FileRef>
+                        </Group>
+                     </Group>
+                     <Group
+                        location = "group:pt.lproj"
+                        name = "pt.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:pt_BR.lproj"
+                        name = "pt_BR.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:pt_PT.lproj"
+                        name = "pt_PT.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ro.lproj"
+                        name = "ro.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ru.lproj"
+                        name = "ru.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:sk.lproj"
+                        name = "sk.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:sv.lproj"
+                        name = "sv.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:th.lproj"
+                        name = "th.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:tr.lproj"
+                        name = "tr.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:uk.lproj"
+                        name = "uk.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:vi.lproj"
+                        name = "vi.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:zh_CN.lproj"
+                        name = "zh_CN.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:zh_HK.lproj"
+                        name = "zh_HK.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:zh_TW.lproj"
+                        name = "zh_TW.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                  </Group>
+                  <FileRef
+                     location = "group:RoundedButton.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:SDKDemoAPIKey.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ShadowLineView.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:ShadowView.swift">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Styles.swift">
+                  </FileRef>
+                  <Group
+                     location = "group:Support"
+                     name = "Support">
+                     <FileRef
+                        location = "group:CGRect+Extensions.swift">
+                     </FileRef>
+                     <FileRef
+                        location = "group:NotificationObserver.swift">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:ViewControllers"
+                     name = "ViewControllers">
+                     <Group
+                        location = "group:Containers"
+                        name = "Containers">
+                        <FileRef
+                           location = "group:BackgroundMapViewController.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:BaseContainerViewController.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:InsetViewController.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:SplitPaneViewController.swift">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:PickAPlace"
+                        name = "PickAPlace">
+                        <FileRef
+                           location = "group:PickAPlaceViewController.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:PickAPlaceViewController.xib">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:PlaceDetail"
+                        name = "PlaceDetail">
+                        <FileRef
+                           location = "group:PlaceAttributeCell.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:PlaceAttributeCell.xib">
+                        </FileRef>
+                        <FileRef
+                           location = "group:PlaceDetailTableViewDataSource.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:PlaceDetailViewController.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:PlaceDetailViewController.xib">
+                        </FileRef>
+                        <FileRef
+                           location = "group:PlaceNameHeader.swift">
+                        </FileRef>
+                        <FileRef
+                           location = "group:PlaceNameHeader.xib">
+                        </FileRef>
+                     </Group>
+                  </Group>
+               </Group>
+               <FileRef
+                  location = "group:GooglePlacePickerDemos.xcodeproj">
+               </FileRef>
+               <FileRef
+                  location = "group:Podfile">
+               </FileRef>
+               <FileRef
+                  location = "group:README.GooglePlacePickerDemos">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Frameworks"
+               name = "Frameworks">
+               <Group
+                  location = "group:GooglePlacePicker.framework"
+                  name = "GooglePlacePicker.framework">
+                  <FileRef
+                     location = "group:GooglePlacePicker">
+                  </FileRef>
+                  <Group
+                     location = "group:Headers"
+                     name = "Headers">
+                     <FileRef
+                        location = "group:GMSPlacePicker.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlacePickerConfig.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlacePickerViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GooglePlacePicker.h">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Modules"
+                     name = "Modules">
+                     <FileRef
+                        location = "group:module.modulemap">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Resources"
+                     name = "Resources">
+                     <FileRef
+                        location = "group:GooglePlacePicker.bundle">
+                     </FileRef>
+                  </Group>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:README.md">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:GooglePlaces"
+            name = "GooglePlaces">
+            <FileRef
+               location = "group:CHANGELOG">
+            </FileRef>
+            <Group
+               location = "group:Example"
+               name = "Example">
+               <Group
+                  location = "group:GooglePlacesDemos"
+                  name = "GooglePlacesDemos">
+                  <FileRef
+                     location = "group:DemoAppDelegate.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DemoAppDelegate.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DemoData.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DemoData.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DemoListViewController.h">
+                  </FileRef>
+                  <FileRef
+                     location = "group:DemoListViewController.m">
+                  </FileRef>
+                  <FileRef
+                     location = "group:Info.plist">
+                  </FileRef>
+                  <FileRef
+                     location = "group:main.m">
+                  </FileRef>
+                  <Group
+                     location = "group:Resources"
+                     name = "Resources">
+                     <Group
+                        location = "group:ar.lproj"
+                        name = "ar.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:Base.lproj"
+                        name = "Base.lproj">
+                        <FileRef
+                           location = "group:LaunchScreen.storyboard">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ca.lproj"
+                        name = "ca.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:cs.lproj"
+                        name = "cs.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:da.lproj"
+                        name = "da.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:de.lproj"
+                        name = "de.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:el.lproj"
+                        name = "el.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:en.lproj"
+                        name = "en.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:en_AU.lproj"
+                        name = "en_AU.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:en_GB.lproj"
+                        name = "en_GB.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:en_IN.lproj"
+                        name = "en_IN.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:es.lproj"
+                        name = "es.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:es_419.lproj"
+                        name = "es_419.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:es_MX.lproj"
+                        name = "es_MX.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:fi.lproj"
+                        name = "fi.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:fr.lproj"
+                        name = "fr.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:fr_CA.lproj"
+                        name = "fr_CA.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:he.lproj"
+                        name = "he.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:hi.lproj"
+                        name = "hi.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:hr.lproj"
+                        name = "hr.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:hu.lproj"
+                        name = "hu.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:id.lproj"
+                        name = "id.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:it.lproj"
+                        name = "it.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ja.lproj"
+                        name = "ja.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ko.lproj"
+                        name = "ko.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ms.lproj"
+                        name = "ms.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:nb.lproj"
+                        name = "nb.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:nl.lproj"
+                        name = "nl.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:pl.lproj"
+                        name = "pl.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:PlacesDemoAssets.xcassets"
+                        name = "PlacesDemoAssets.xcassets">
+                        <Group
+                           location = "group:AppIcon.appiconset"
+                           name = "AppIcon.appiconset">
+                           <FileRef
+                              location = "group:Contents.json">
+                           </FileRef>
+                           <FileRef
+                              location = "group:Places-API-Demo-App_120.png">
+                           </FileRef>
+                           <FileRef
+                              location = "group:Places-API-Demo-App_152.png">
+                           </FileRef>
+                           <FileRef
+                              location = "group:Places-API-Demo-App_167.png">
+                           </FileRef>
+                           <FileRef
+                              location = "group:Places-API-Demo-App_180.png">
+                           </FileRef>
+                           <FileRef
+                              location = "group:Places-API-Demo-App_76.png">
+                           </FileRef>
+                        </Group>
+                        <FileRef
+                           location = "group:Contents.json">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:pt.lproj"
+                        name = "pt.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:pt_BR.lproj"
+                        name = "pt_BR.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:pt_PT.lproj"
+                        name = "pt_PT.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ro.lproj"
+                        name = "ro.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:ru.lproj"
+                        name = "ru.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:sk.lproj"
+                        name = "sk.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:sv.lproj"
+                        name = "sv.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:th.lproj"
+                        name = "th.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:tr.lproj"
+                        name = "tr.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:uk.lproj"
+                        name = "uk.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:vi.lproj"
+                        name = "vi.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:zh_CN.lproj"
+                        name = "zh_CN.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:zh_HK.lproj"
+                        name = "zh_HK.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                     <Group
+                        location = "group:zh_TW.lproj"
+                        name = "zh_TW.lproj">
+                        <FileRef
+                           location = "group:Localizable.strings">
+                        </FileRef>
+                     </Group>
+                  </Group>
+                  <Group
+                     location = "group:Samples"
+                     name = "Samples">
+                     <Group
+                        location = "group:Autocomplete"
+                        name = "Autocomplete">
+                        <FileRef
+                           location = "group:AutocompleteBaseViewController.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:AutocompleteBaseViewController.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:AutocompleteModalViewController.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:AutocompleteModalViewController.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:AutocompletePushViewController.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:AutocompletePushViewController.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:AutocompleteWithCustomColors.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:AutocompleteWithCustomColors.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:AutocompleteWithSearchDisplayController.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:AutocompleteWithSearchDisplayController.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:AutocompleteWithSearchViewController.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:AutocompleteWithSearchViewController.m">
+                        </FileRef>
+                        <FileRef
+                           location = "group:AutocompleteWithTextFieldController.h">
+                        </FileRef>
+                        <FileRef
+                           location = "group:AutocompleteWithTextFieldController.m">
+                        </FileRef>
+                     </Group>
+                     <FileRef
+                        location = "group:PagingPhotoView.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PagingPhotoView.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PhotosViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PhotosViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PlacePickerViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:PlacePickerViewController.m">
+                     </FileRef>
+                  </Group>
+                  <FileRef
+                     location = "group:SDKDemoAPIKey.h">
+                  </FileRef>
+                  <Group
+                     location = "group:Support"
+                     name = "Support">
+                     <FileRef
+                        location = "group:BaseDemoViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:BaseDemoViewController.m">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MainSplitViewControllerBehaviorManager.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:MainSplitViewControllerBehaviorManager.m">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <FileRef
+                  location = "group:GooglePlacesDemos.xcodeproj">
+               </FileRef>
+               <FileRef
+                  location = "group:Podfile">
+               </FileRef>
+               <FileRef
+                  location = "group:README.GooglePlacesDemos">
+               </FileRef>
+            </Group>
+            <Group
+               location = "group:Frameworks"
+               name = "Frameworks">
+               <Group
+                  location = "group:GooglePlaces.framework"
+                  name = "GooglePlaces.framework">
+                  <FileRef
+                     location = "group:GooglePlaces">
+                  </FileRef>
+                  <Group
+                     location = "group:Headers"
+                     name = "Headers">
+                     <FileRef
+                        location = "group:GMSAddressComponent.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompleteBoundsMode.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompleteFetcher.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompleteFilter.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompleteMatchFragment.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompletePrediction.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompleteResultsViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompleteTableDataSource.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompleteViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlace.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlaceLikelihood.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlaceLikelihoodList.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlacePhotoMetadata.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlacePhotoMetadataList.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlacesClient.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlacesErrors.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlaceTypes.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSUserAddedPlace.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GooglePlaces.h">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Modules"
+                     name = "Modules">
+                     <FileRef
+                        location = "group:module.modulemap">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:Resources"
+                     name = "Resources">
+                     <FileRef
+                        location = "group:GooglePlaces.bundle">
+                     </FileRef>
+                  </Group>
+               </Group>
+            </Group>
+            <FileRef
+               location = "group:README.md">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:Headers"
+            name = "Headers">
+            <Group
+               location = "group:Public"
+               name = "Public">
+               <Group
+                  location = "group:GoogleMaps"
+                  name = "GoogleMaps">
+                  <Group
+                     location = "group:GoogleMaps"
+                     name = "GoogleMaps">
+                     <FileRef
+                        location = "group:GMSAddress.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSCALayer.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSCameraPosition.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSCameraUpdate.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSCircle.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSCoordinateBounds+GoogleMaps.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSGeocoder.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSGeometryUtils.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSGroundOverlay.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSIndoorBuilding.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSIndoorDisplay.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSIndoorLevel.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSMapLayer.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSMapStyle.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSMapView+Animation.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSMapView.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSMarker.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSMarkerLayer.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSMutablePath.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSOrientation.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSOverlay.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPanorama.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPanoramaCamera.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPanoramaCameraUpdate.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPanoramaLayer.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPanoramaLink.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPanoramaService.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPanoramaView.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPath.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPolygon.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPolyline.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSProjection.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSServices.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSSyncTileLayer.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSTileLayer.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSUISettings.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSURLTileLayer.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GoogleMaps.h">
+                     </FileRef>
+                  </Group>
+                  <Group
+                     location = "group:GoogleMapsBase"
+                     name = "GoogleMapsBase">
+                     <FileRef
+                        location = "group:GMSCompatabilityMacros.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSCoordinateBounds.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSDeprecationMacros.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GoogleMapsBase.h">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:GooglePlacePicker"
+                  name = "GooglePlacePicker">
+                  <Group
+                     location = "group:GooglePlacePicker"
+                     name = "GooglePlacePicker">
+                     <FileRef
+                        location = "group:GMSPlacePicker.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlacePickerConfig.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlacePickerViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GooglePlacePicker.h">
+                     </FileRef>
+                  </Group>
+               </Group>
+               <Group
+                  location = "group:GooglePlaces"
+                  name = "GooglePlaces">
+                  <Group
+                     location = "group:GooglePlaces"
+                     name = "GooglePlaces">
+                     <FileRef
+                        location = "group:GMSAddressComponent.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompleteBoundsMode.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompleteFetcher.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompleteFilter.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompleteMatchFragment.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompletePrediction.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompleteResultsViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompleteTableDataSource.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSAutocompleteViewController.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlace.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlaceLikelihood.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlaceLikelihoodList.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlacePhotoMetadata.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlacePhotoMetadataList.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlacesClient.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlacesErrors.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSPlaceTypes.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GMSUserAddedPlace.h">
+                     </FileRef>
+                     <FileRef
+                        location = "group:GooglePlaces.h">
+                     </FileRef>
+                  </Group>
+               </Group>
+            </Group>
+         </Group>
+         <Group
+            location = "group:Local Podspecs"
+            name = "Local Podspecs">
+         </Group>
+         <FileRef
+            location = "group:Manifest.lock">
+         </FileRef>
+         <FileRef
+            location = "group:Pods.xcodeproj">
+         </FileRef>
+         <Group
+            location = "group:Target Support Files"
+            name = "Target Support Files">
+            <Group
+               location = "group:Pods-Beacon"
+               name = "Pods-Beacon">
+               <FileRef
+                  location = "group:Pods-Beacon-acknowledgements.markdown">
+               </FileRef>
+               <FileRef
+                  location = "group:Pods-Beacon-acknowledgements.plist">
+               </FileRef>
+               <FileRef
+                  location = "group:Pods-Beacon-dummy.m">
+               </FileRef>
+               <FileRef
+                  location = "group:Pods-Beacon-frameworks.sh">
+               </FileRef>
+               <FileRef
+                  location = "group:Pods-Beacon-resources.sh">
+               </FileRef>
+               <FileRef
+                  location = "group:Pods-Beacon.debug.xcconfig">
+               </FileRef>
+               <FileRef
+                  location = "group:Pods-Beacon.release.xcconfig">
+               </FileRef>
+            </Group>
+         </Group>
+      </Group>
+      <FileRef
+         location = "group:style.json">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
